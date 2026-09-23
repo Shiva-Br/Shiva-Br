@@ -22,12 +22,6 @@ June 2026 – present
 
 Working on a B2B financial systems integrity platform focused on order-incident reconstruction and evidence-backed verification. I lead discovery and prioritization, define analysis and reporting workflows, and collaborate with engineering on API requirements, edge cases, and usability.
 
-**Technical Product Advisor · Waiter Call**
-
-June 2026 – present
-
-Advising a QR-based hospitality platform on product direction, user experience, technical feasibility, and implementation trade-offs.
-
 ## Selected engineering experience
 
 **Senior Frontend Developer · Novin Dev**
