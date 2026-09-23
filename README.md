@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
   <img src="assets/profile-light.svg" width="100%" alt="Shiva Boroujerdi — Senior Frontend Engineer. React, TypeScript, Next.js. Thoughtful interfaces. Reliable systems.">
@@ -16,32 +18,21 @@
 
 I turn complex product requirements into interfaces that feel clear and work reliably. My focus is **frontend architecture, real-time experiences, and design systems** — with hands-on product experience connecting user needs to engineering decisions.
 
-<table>
-  <tr>
-    <td align="center" width="33%"><h2>10+ years</h2>Frontend engineering<br><sub>From responsive websites to complex products</sub></td>
-    <td align="center" width="33%"><h2>50+ apps</h2>Delivered at Radcom<br><sub>Responsive, cross-browser web applications</sub></td>
-    <td align="center" width="33%"><h2>Up to 5%</h2>Less code at Smartech<br><sub>Reusable components + Redux Toolkit migration</sub></td>
-  </tr>
-</table>
+| Track record | Impact |
+| :--- | :--- |
+| **10+ years** | Frontend engineering across websites and complex products |
+| **50+ apps** | Responsive web applications delivered at Radcom |
+| **Up to 5%** | Less code at Smartech through reusable components and Redux Toolkit migration |
 
 ### 01 / Engineering focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Interfaces that scale</h3>
-      Modular frontend architecture, typed API clients, reusable components, and predictable state management.
-      <br><br>
-      <code>React</code> <code>TypeScript</code> <code>OpenAPI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Experiences that respond</h3>
-      Streaming AI chat, reconnection and abort controls, query caching, and infinite pagination.
-      <br><br>
-      <code>SSE</code> <code>TanStack Query</code> <code>RxJS</code>
-    </td>
-  </tr>
-</table>
+**Interfaces that scale**<br>
+Modular frontend architecture, typed API clients, reusable components, and predictable state management.<br>
+`React` `TypeScript` `OpenAPI`
+
+**Experiences that respond**<br>
+Streaming AI chat, reconnection and abort controls, query caching, and infinite pagination.<br>
+`SSE` `TanStack Query` `RxJS`
 
 I care about the details around the interface, too: **accessibility, performance, automated tests, observability, and clear code reviews**.
 
