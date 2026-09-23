@@ -65,4 +65,6 @@ Earlier experience: Frontend Developer at **Ideh Pardazan**, June 2014 – April
 
 I'm interested in **Senior/Lead Frontend** and **Frontend Platform** roles, especially work involving frontend architecture, developer experience, and complex product workflows.
 
-[Find me on LinkedIn →](https://www.linkedin.com/in/shiva-boroujerdi/)
+- **Email:** [shiva.boroujerdi@gmail.com](mailto:shiva.boroujerdi@gmail.com)
+- **Phone:** +37455867301
+- **LinkedIn:** [shiva-boroujerdi](https://www.linkedin.com/in/shiva-boroujerdi/)
