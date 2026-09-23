@@ -1,10 +1,20 @@
-# Hi, I'm Shiva Boroujerdi
+<h1 align="center">Shiva Boroujerdi</h1>
 
-**Senior Frontend Engineer · React · TypeScript · Next.js**
+<h3 align="center">Senior Frontend Engineer</h3>
+
+<p align="center">
+  <strong>React · TypeScript · Next.js · Frontend Architecture · Design Systems</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiva-boroujerdi/">LinkedIn</a> ·
+  <a href="mailto:shiva.boroujerdi@gmail.com">Email</a> ·
+  Yerevan, Armenia
+</p>
+
+---
 
 I build reliable interfaces for complex products. With 10+ years in frontend development, my work spans scalable architecture, real-time AI experiences, reusable design systems, and web performance. My technical product experience helps me connect user needs with practical engineering decisions.
-
-Based in **Yerevan, Armenia** · [Connect on LinkedIn](https://www.linkedin.com/in/shiva-boroujerdi/)
 
 ## What I bring to a team
 
